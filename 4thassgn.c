@@ -1,4 +1,9 @@
-   #include "stdio.h"
+//Aung Myint Myat
+//Sept 17 2022
+//tokisaki0909@gmail.com
+//unfinished project due to some reasons
+
+#include "stdio.h"
 #include "stdlib.h"
 #include "string.h"
 
